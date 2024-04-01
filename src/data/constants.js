@@ -232,6 +232,7 @@ export const Bio = {
         "Tableau",
         "Python",
         "Excel",
+        
       ],
       category: "data analytics",
       github: "https://github.com/Mohit2497/UK-Road-Accident-Analysis",
