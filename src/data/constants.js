@@ -215,7 +215,7 @@ export const Bio = {
       img: "https://th.bing.com/th/id/OIP.qigHIHsXp55eQ4kUWFB9qgAAAA?rs=1&pid=ImgDetMain",
       school: "Xavier Institute of Engineering, Mumbai",
       date: "Jul 2015 - Jun 2021",
-      grade: "3.31 / 4.00 GPA",
+      grade: "3.31 GPA",
       degree: "Bachelors's of Engineering in Information Technology",
     },
   ];
