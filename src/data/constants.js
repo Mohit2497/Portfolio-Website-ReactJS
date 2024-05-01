@@ -180,8 +180,8 @@ export const Bio = {
         "Scikit-learn",
         "Numpy",
       ],
-      doc: "https://media.licdn.com/dms/image/D4D2DAQGcypDuYWcVGw/profile-treasury-image-shrink_800_800/0/1686773595304?e=1712358000&v=beta&t=7lRsul1MzWJuLpxyeg9F0Gvz1-WKuAEv58r2CArX9Ug", 
-      doc1: "https://media.licdn.com/dms/image/D4D2DAQEkSRFBlNML9Q/profile-treasury-image-shrink_800_800/0/1686773399669?e=1712358000&v=beta&t=7lstBVytP3lrH-r_uyUfKyVoSQKE5p7Mh6vsMzNMfDY",
+      doc: "https://firebasestorage.googleapis.com/v0/b/imageuploaddb-89e94.appspot.com/o/Sparks%20Foundation-1.jpeg?alt=media&token=ac8b3d9d-2bd0-4198-a17e-f6b28372ceea", 
+      doc1: "https://firebasestorage.googleapis.com/v0/b/imageuploaddb-89e94.appspot.com/o/Sparks%20Foundation-2.jpeg?alt=media&token=4910e6ea-e825-45e2-8c8e-e410d5f5d89b",
     },
     {
       id: 1,
